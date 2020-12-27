@@ -1,0 +1,16 @@
+//
+//  Development.xcconfig
+//  ClassifiedDemo
+//
+//  Created by Takvir Hossain Tusher on 28/12/20.
+//  Copyright © 2020 Samsung Electronics. All rights reserved.
+//
+
+// Configuration settings file format documentation can be found at:
+// https://help.apple.com/xcode/#/dev745c5c974
+
+#include "Pods/Target Support Files/Pods-ClassifiedDemo/Pods-ClassifiedDemo.debug.xcconfig"
+
+// App Settings
+APP_NAME = ClassifiedDemo (dev)
+APP_BUNDLE_ID = com.test.ClassifiedDemo.dev
